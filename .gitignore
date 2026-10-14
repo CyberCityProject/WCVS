@@ -1,0 +1,21 @@
+# Secrets & env
+app/.env
+.env
+.env.*
+!.env.example
+
+# Python / Node
+**/__pycache__/
+**/*.pyc
+**/.pytest_cache/
+app/portal/node_modules/
+app/portal/dist/
+*.log
+.DS_Store
+
+# Notes internes, preuves, exports locaux (ne pas pousser sur GitHub public)
+journal-de-bord.html
+idee-et-axes.html
+_pdf_preview/
+*.pdf
+WCVS-pdf-extract.txt
