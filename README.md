@@ -9,7 +9,7 @@ Elle réalise des **analyses passives** de ce qu’un site expose publiquement, 
 
 ## Pour qui ?
 
-- Agences web / SEO / cybersécurité offensive *éthique* (audit passif)
+- Agences web / SEO / DPO / RSSI / cybersécurité offensive *éthique* (audit passif)
 - Indépendants multi-clients
 - Équipes qui veulent un suivi régulier de la posture HTTPS / surface d’exposition
 
